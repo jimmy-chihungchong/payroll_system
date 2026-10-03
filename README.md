@@ -3,6 +3,10 @@
 A scoped-down, runnable prototype proving the architecture: **LLM for messy language work,
 deterministic Python for money.** Runs locally on LM Studio; switch to NVIDIA NIM or Claude via `.env`.
 
+**Live demo:** https://payrollsystem-8pvnpwdqujd2qxa2h4puxg.streamlit.app/
+(hosted on Streamlit Community Cloud with NVIDIA NIM; synthetic sample data only. Tick "Use LLM" in the
+sidebar for the full workflow; the first call after idle can take ~30s.)
+
 ## Architecture
 
 ```
