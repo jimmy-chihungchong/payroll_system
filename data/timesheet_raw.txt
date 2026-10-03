@@ -1,0 +1,7 @@
+Alice Johnson: Mon 2026-09-28 9am to 5:30pm, 30 min lunch, Acme website redesign
+Alice Johnson: Tue 2026-09-29 8:30 - 17:00, lunch 45m, Acme website redesign
+Alice Johnson: Wed 2026-09-30 worked 9 to 6 with a 1 hour break, Globex data migration
+Alice Johnson: Thu 2026-10-01 7am until 9pm no break, Globex data migration crunch
+Bob Smith: Mon 2026-09-28 10:00-18:00 half hour lunch, Acme API work
+Bob Smith: Tue 2026-09-29 9am-5pm 30min break, Acme API work
+Bob Smith: Wed 2026-09-30 9:00 to 19:30, 30 min lunch, Globex reporting
